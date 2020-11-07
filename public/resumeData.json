@@ -1,0 +1,93 @@
+{
+  "main": {
+    "name": "Xiang Hou",
+    "occupation": "",
+    "description": "A self-taught Front-end Developer && ReactJS enthusiast",
+    "image": "",
+    "bio": "My name is Xiang, I'm a self-taught Front-end Developer && ReactJS enthusiast. Currently I'm looking for a full-time JS Developer opportunity in Australia.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "hxwd20@gmail.com",
+    "phone": "0435741375",
+    "address": {
+      "street": "45 Villa Road",
+      "city": "Springvale",
+      "state": "VIC",
+      "zip": "3171"
+    },
+    "website": "",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/HX17",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/xiang-hou-248926164/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "The Australian National University",
+        "degree": "Bechalor of Finance",
+        "graduated": "December 2014",
+        "description": "Graduated with Credit Average"
+      },
+      {
+        "school": "Swinburne University",
+        "degree": "Master of Information Technology",
+        "graduated": "July 2019 - present",
+        "description": "Distinction Average"
+      },
+      {
+        "school": "Udemy",
+        "degree": "Modern React with Redux",
+        "graduated": "Completed by November 2020",
+        "description": "Project-based course with experience on Redux/REST APIs/OAuth/Semantic UI/CRUD/MVC"
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "",
+        "user": ""
+      }
+    ]
+  }
+}
