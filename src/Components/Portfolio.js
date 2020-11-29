@@ -25,9 +25,11 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
-            <a href={projects.source}>
-              <button style={{ marginTop: "20px" }}>Source code</button>
-            </a>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+              <a href={projects.source}>
+                <button style={{ marginTop: "20px" }}>Source code</button>
+              </a>
+            </div>
           </div>
         );
       });
