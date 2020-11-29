@@ -53,22 +53,32 @@
     ],
     "work": [
       {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
-      },
-      {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": ""
+        "company": "Jiang Ren Academy",
+        "title": "Software developer (Intern)",
+        "years": "November 2020",
+        "description": "Improve and maintain website using Agile development "
       }
     ],
     "skills": [
       {
+        "name": "HTML/CSS",
+        "level": "70%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "80%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "50%"
+      },
+      {
+        "name": "NoSQL DB",
+        "level": "50%"
+      },
+      {
+        "name": "Testing / Git / AWS / CICD",
+        "level": "40%"
       }
     ]
   },
