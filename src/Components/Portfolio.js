@@ -9,7 +9,11 @@ class Portfolio extends Component {
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
               <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
+                <img
+                  alt={projects.title}
+                  src={projectImage}
+                  style={{ width: 300, height: 170, objectFit: "cover" }}
+                />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{projects.title}</h5>
@@ -21,8 +25,8 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
-            <a href="https://www.google.com/">
-              <button style={{ marginTop: "10px" }}>Source code</button>
+            <a href={projects.source}>
+              <button style={{ marginTop: "20px" }}>Source code</button>
             </a>
           </div>
         );
