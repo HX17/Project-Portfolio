@@ -12,7 +12,7 @@ class Portfolio extends Component {
                 <img
                   alt={projects.title}
                   src={projectImage}
-                  style={{ width: 300, height: 170, objectFit: "cover" }}
+                  style={{ width: 500, height: 170, objectFit: "cover" }}
                 />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -27,7 +27,15 @@ class Portfolio extends Component {
             </div>
             <div style={{ display: "flex", justifyContent: "center" }}>
               <a href={projects.source}>
-                <button style={{ marginTop: "20px" }}>Source code</button>
+                <button
+                  style={{
+                    marginTop: "20px",
+                    width: "170px",
+                    height: "55px",
+                  }}
+                >
+                  Github Code
+                </button>
               </a>
             </div>
           </div>

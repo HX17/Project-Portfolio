@@ -48,7 +48,7 @@
         "school": "Udemy",
         "degree": "Modern React with Redux",
         "graduated": "Completed by November 2020",
-        "description": "Project-based course with experience on Redux/REST APIs/OAuth/Semantic UI/CRUD/MVC"
+        "description": "Project-based course with experience on Redux / REST APIs / OAuth / Semantic UI / CRUD"
       }
     ],
     "work": [
@@ -56,29 +56,29 @@
         "company": "Jiang Ren Academy",
         "title": "Software developer (Intern)",
         "years": "November 2020",
-        "description": "Improve and maintain website using Agile development "
+        "description": "Developed features and fixed issues on landing page & user management system using Agile development (Jira)"
       }
     ],
     "skills": [
       {
         "name": "HTML/CSS",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "ReactJs",
-        "level": "80%"
+        "level": "85%"
       },
       {
         "name": "NodeJS",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "NoSQL DB",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Testing / Git / AWS / CICD",
-        "level": "40%"
+        "level": "50%"
       }
     ]
   },
@@ -97,6 +97,13 @@
         "image": "MERNG-Social-Media.png",
         "url": "https://merng-social-media-forum.netlify.app/",
         "source": "https://github.com/HX17/MERNG-Social-Media-App"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Netflix landing page (ReactJS, Context, Styled-components, Firebase Auth, Unit Testing)",
+        "image": "Netflix-clone.png",
+        "url": "https://netflix-5adf9.web.app/",
+        "source": "https://github.com/HX17/netflix-clone"
       },
       {
         "title": "Jiang Ren",

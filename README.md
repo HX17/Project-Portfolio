@@ -4,13 +4,11 @@ This is a ReactJS based personal resume website template
 
 #### PROCEDURE:
 
-To start the App, cd in the project directory and run
+To start the App, cd in the project directory and run npm start
 
-npm start To test the App, run
+To test the App, run npm test
 
-npm test To build, run
-
-npm run build It builds the app for production to the build folder.
+To build, run npm run build It builds the app for production to the build folder.
 
 ## Credits
 
