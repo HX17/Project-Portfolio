@@ -4,7 +4,7 @@
     "occupation": "",
     "description": "A self-taught Front-end Developer && Full-stack enthusiast",
     "image": "",
-    "bio": "My name is Xiang, I'm a self-taught Front-end Developer && Full-stack enthusiast. Currently I'm looking for a full-time JS Developer opportunity in Australia.",
+    "bio": "My name is Xiang, I'm a self-taught Front-end Developer && Full-stack enthusiast. Currently I'm looking for a full-time JavaScript Developer opportunity in Australia.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "hxwd20@gmail.com",
     "phone": "0435741375",
@@ -15,7 +15,7 @@
       "zip": "3171"
     },
     "website": "",
-    "resumedownload": "",
+    "resumedownload": "https://drive.google.com/file/d/1gptigdmNp_QI3Q2YZi7BNAThdT-zjh7Q/view?usp=sharing",
     "social": [
       {
         "name": "github",
@@ -61,23 +61,27 @@
     ],
     "skills": [
       {
-        "name": "HTML/CSS",
-        "level": "75%"
+        "name": "HTML / CSS ",
+        "level": "70%"
       },
       {
-        "name": "ReactJs",
+        "name": "React / Redux",
         "level": "85%"
       },
       {
-        "name": "NodeJS",
+        "name": "Node / Express",
+        "level": "75%"
+      },
+      {
+        "name": "SQL / MongoDB",
         "level": "60%"
       },
       {
-        "name": "NoSQL DB",
+        "name": "Unit Testing",
         "level": "60%"
       },
       {
-        "name": "Testing / Git / AWS / CICD",
+        "name": "Git / AWS / Agile",
         "level": "50%"
       }
     ]
@@ -86,14 +90,14 @@
     "projects": [
       {
         "title": "Pro-gears Digital Shop",
-        "category": "E-Commerce site built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS, Redux)",
+        "category": "E-Commerce site built with MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS, Redux)",
         "image": "MERN-eCommerce.png",
         "url": "https://progearsapp.herokuapp.com/",
         "source": "https://github.com/HX17/Pro-gears"
       },
       {
         "title": "Social Media Forum",
-        "category": "Social media forum built with MERNG (MongoDB, ReactJS, NodeJS, Graphql, Context)",
+        "category": "Social media forum built with MERNG stack (MongoDB, ReactJS, NodeJS, Graphql, Context)",
         "image": "MERNG-Social-Media.png",
         "url": "https://merng-social-media-forum.netlify.app/",
         "source": "https://github.com/HX17/MERNG-Social-Media-App"
